@@ -1,1 +1,3 @@
-# Improving_Accuracy_of_Energy_Timeseries_Forecasts_EnBW_Datalab
+# Improving_Accuracy_of_Energy_Timeseries_Forecasts
+
+###(In cooperation with EnBW Datalab)
